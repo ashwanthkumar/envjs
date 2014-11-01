@@ -1,0 +1,6 @@
+{
+  "name": "envjs",
+  "description": "node module of env.js",
+  "version": "0.0.1",
+  "private": true
+}
